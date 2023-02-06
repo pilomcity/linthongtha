@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>ด.ญ.ลินทองฐา มะลารวม</title>
-	<atom:link href="http://localhost/wordpress/feed" rel="self" type="application/rss+xml" />
+	<title>zaleng &#8211; ด.ญ.ลินทองฐา มะลารวม</title>
+	<atom:link href="http://localhost/wordpress/author/zaleng/feed" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>น้องเฮงเฮง ป.2/1 เลขที่ 5 โรงเรียนพระกุมารร้อยเอ็ด</description>
 	<lastBuildDate>Sun, 04 Dec 2022 21:24:36 +0000</lastBuildDate>
